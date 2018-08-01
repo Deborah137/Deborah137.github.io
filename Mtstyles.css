@@ -1,0 +1,22 @@
+h1 {
+  color: blue;
+  font-size: 50px
+
+}
+
+body{
+
+  font-family: fantasy;
+}
+
+h1#name{
+  color: blue;
+  font-size: 60px;
+}
+
+.block{
+  width: 200px:auto;
+  height: 200px;
+  background-color: red;
+  margin: 10px
+}
